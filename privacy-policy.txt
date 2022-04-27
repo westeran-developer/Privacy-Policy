@@ -2,7 +2,9 @@ Privacy Policy - Letter Switch
 
 Letter Switch is a word-based puzzle game available for free on the google play store. 
 
-Upon completion of the optional daily challenge the user's score is is uploaded to Google Play's leaderboard service. Other than that, absolutely no user information is stored in any capacity
+Upon completion of the optional daily challenge, the user's score is uploaded to Google Play's leaderboard service. 
+
+Other than that, absolutely no user information is stored in any capacity, and no data is shared with third-parties.
 
 Thanks,
 wordwheelgame984@gmail.com
