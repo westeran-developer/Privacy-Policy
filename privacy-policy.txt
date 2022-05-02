@@ -2,9 +2,7 @@ Privacy Policy - Letter Switch
 
 Letter Switch is a word-based puzzle game available for free on the Google Play store. 
 
-Upon completion of the optional daily challenge, the user's score is uploaded to Google Play's leaderboard service. 
-
-Other than that, absolutely no user information is stored in any capacity, and no data is shared with third-parties.
+I do not collect any user data, however Unity does collect some user data through their ads, the list of collected data can be viewed here: https://docs.unity.com/ads/GoogleDataSafety.html
 
 Thanks,
 wordwheelgame984@gmail.com
